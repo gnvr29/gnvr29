@@ -11,6 +11,12 @@ I'm a software engineering student, currently enrolled at PUC Minas. I'm a lifel
 ![](https://nirzak-streak-stats.vercel.app/?user=gnvr29&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gnvr29&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gnvr29&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 

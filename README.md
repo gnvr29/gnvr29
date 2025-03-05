@@ -24,7 +24,8 @@ I'm a software engineering student, currently enrolled at PUC Minas. I'm a lifel
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=gnvr29&icon=10&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/gnvr29/count.svg?"  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

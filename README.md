@@ -15,15 +15,7 @@ Check out some of my tutorials [here](https://www.youtube.com/@gnvr-zb7tw)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gnvr29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gnvr29&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📊 Visitors:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gnvr29/count.svg?"  />
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
